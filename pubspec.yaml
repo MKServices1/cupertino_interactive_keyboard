@@ -5,7 +5,7 @@ homepage: https://github.com/ky1vstar/cupertino_interactive_keyboard
 issue_tracker: https://github.com/ky1vstar/cupertino_interactive_keyboard/issues
 
 environment:
-  sdk: '>=2.17.0 <4.0.0'
+  sdk: ">=3.4.1 <4.0.0"
   flutter: '>=3.0.0'
 
 dependencies:
